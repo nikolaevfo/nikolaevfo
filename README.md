@@ -2,6 +2,16 @@
 ## Junior Frontend developer из Ижевск
 ### Мои последние проекты
 
+###Список технологий которые я использовал:
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Figma
+- Webpack, Gulp
+- Sass
+- Git
+
 <!--
 **nikolaevfo/nikolaevfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
