@@ -10,6 +10,8 @@
 - JavaScript
 - React
 - Figma
+- Node.js
+- MongoDB
 - Webpack, Gulp
 - Sass
 - Git
