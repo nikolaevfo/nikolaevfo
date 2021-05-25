@@ -1,6 +1,9 @@
 # Привет! Меня зовут Николаев Федор 👋
-## Junior Frontend developer из Ижевск
+## Junior Frontend developer из Ижевска
 ### Мои последние проекты
+
+#### Ссылка на сервис [Mesto](https://nikolaev.student.nomoredomains.club)
+#### Ссылка на сайт: [Путешествие по России](https://nikolaevfo.github.io/russian-travel/index.html).
 
 ### Список технологий которые я использовал:
 - HTML5
@@ -11,6 +14,10 @@
 - Webpack, Gulp
 - Sass
 - Git
+
+### Контакты:
+- 📞 +7(963)545-79-74
+- ✉️ nikolaevfo@gmail.com
 
 <!--
 **nikolaevfo/nikolaevfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
