@@ -1,4 +1,9 @@
 # Привет! Меня зовут Федор :pray:
+- :man_student:программирование - мой путь саморазвития
+- :nerd_face:прихожу в восторг, когда код работает сразу, как я его написал
+- :superhero_man: хочу стать гуру по React
+- :dizzy_face:могу смотреть вечно на огонь, воду и чистый код
+- люблю йогу:lotus_position_man: и капоэйру:man_cartwheeling:
 <!-- 
 ### :hammer:Мои последние проекты :
 #### Ссылка на сервис [Mesto](https://nikolaev.student.nomoredomains.club)
