@@ -5,7 +5,10 @@
 #### Ссылка на сервис [Mesto](https://nikolaev.student.nomoredomains.club)
 #### Ссылка на сайт: [Путешествие по России](https://nikolaevfo.github.io/russian-travel/index.html).
 
-### 👨‍💻Список технологий которые я использовал:![figma200](https://user-images.githubusercontent.com/66542605/120192615-74de3000-c22c-11eb-9253-cdd9366815ea.png)
+### 👨‍💻Список технологий которые я использовал:
+![figma200](https://user-images.githubusercontent.com/66542605/120192615-74de3000-c22c-11eb-9253-cdd9366815ea.png)
+![figma70](https://user-images.githubusercontent.com/66542605/120192751-a22ade00-c22c-11eb-8121-59ef751edc3c.png)
+
 
 
 - MongoDB
