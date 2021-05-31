@@ -18,8 +18,7 @@
 ![figma40](https://user-images.githubusercontent.com/66542605/120195921-52e6ac80-c230-11eb-9205-fa3445842efb.png)
 
 ### :chart_with_upwards_trend:Моя статистика:
-{{ ACCOUNT_AGE }}
-{{ LANGUAGE_PERCENT }}
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaevfo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Контакты:
