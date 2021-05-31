@@ -1,5 +1,4 @@
 # Привет! Меня зовут Федор :pray:
-## Junior Frontend developer из Ижевска
 <!-- 
 ### :hammer:Мои последние проекты :
 #### Ссылка на сервис [Mesto](https://nikolaev.student.nomoredomains.club)
