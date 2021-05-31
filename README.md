@@ -4,7 +4,7 @@
 #### Ссылка на сервис [Mesto](https://nikolaev.student.nomoredomains.club)
 #### Ссылка на сайт: [Путешествие по России](https://nikolaevfo.github.io/russian-travel/index.html). -->
 
-### 👨‍💻Список технологий, которые я использую:
+### 👨‍💻Технологии, которые я использую:
 ![html40](https://user-images.githubusercontent.com/66542605/120195914-524e1600-c230-11eb-80eb-9339588fe275.png)
 ![css40](https://user-images.githubusercontent.com/66542605/120195908-51b57f80-c230-11eb-89dd-7a33b1b8902f.png)
 ![js40](https://user-images.githubusercontent.com/66542605/120195910-51b57f80-c230-11eb-8830-b204a167e2c1.png)
@@ -19,6 +19,8 @@
 
 ### :chart_with_upwards_trend:Моя статистика:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaevfo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaevfo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Контакты:
