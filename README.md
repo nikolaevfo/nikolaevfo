@@ -18,6 +18,9 @@
 ![sass40](https://user-images.githubusercontent.com/66542605/120195900-50845280-c230-11eb-95e9-afbd1a0a8c8a.png)
 ![figma40](https://user-images.githubusercontent.com/66542605/120195921-52e6ac80-c230-11eb-9205-fa3445842efb.png)
 
+### :chart_with_upwards_trend:Моя статистика:
+{{ ACCOUNT_AGE }}
+{{ LANGUAGE_PERCENT }}
 
 
 ### Контакты:
