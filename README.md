@@ -19,11 +19,6 @@
 ![sass70](https://user-images.githubusercontent.com/66542605/120193721-cc30d000-c22d-11eb-8195-e9e0ff763d8f.png)
 
 
-- MongoDB
-- Webpack, Gulp
-- Sass
-- Git
-
 ### Контакты:
 - 📞/Telegram: +7(963)545-79-74
 - ✉️ nikolaevfo@gmail.com
